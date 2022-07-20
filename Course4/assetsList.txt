@@ -1,0 +1,13 @@
+140342	Ruby Full Stack Development: Defining Regular Expressions
+140343	Ruby Full Stack Development: Using Regular Expressions in Ruby
+140344	Ruby Full Stack Development: Manipulating Strings Using Regular Expressions
+140345	Ruby Full Stack Development: Opening, Accessing, and Closing Files
+140346	Ruby Full Stack Development: Reading and Writing Data to a File
+140347	Ruby Full Stack Development: Manipulating Files on a Drive
+140348	Ruby Full Stack Development: Manipulating Directories on a Drive
+140349	Ruby Full Stack Development: Working with a Database
+140350	Ruby Full Stack Development: Creating a Client Connection
+140351	Ruby Full Stack Development: Using CRUD Operations
+140352	Ruby Full Stack Development: Using Select Statements
+140353	Ruby Full Stack Development: Using Prepared Statements
+140354	Ruby Full Stack Development: Using Input/Output with Ruby

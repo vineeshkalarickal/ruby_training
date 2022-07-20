@@ -1,0 +1,15 @@
+product_id,category_id,vendor_id,product_name,size,color,cost_price,sale_price
+prod_1006_xyz,1,1,Normal Widget,S,Black,100,125
+prod_1007_xyz,2,1,Super Widget,L,Blue,200,250
+prod_1008_xyz,3,1,Turbo Widget,M,Red,250,325
+prod_1009_xyz,1,1,Normal Widget,M,Black,150,185
+prod_1010_xyz,3,1,Turbo Widget,L,Red,350,450
+prod_1011_xyz,1,2,Normal Widget,S,Black,100,125
+prod_1012_xyz,2,2,Super Widget,L,Blue,200,250
+prod_1013_xyz,3,2,Turbo Widget,M,Red,250,325
+prod_1014_xyz,1,2,Normal Widget,M,Black,150,185
+prod_1015_xyz,3,2,Turbo Widget,L,Red,350,450
+prod_1016_xyz,1,2,Normal Widget,S,Red,100,125
+prod_1017_xyz,2,3,Super Widget,L,Blue,200,250
+prod_1018_xyz,3,3,Turbo Widget,M,Red,250,325
+prod_1019_xyz,1,3,Normal Widget,M,Black,150,185
